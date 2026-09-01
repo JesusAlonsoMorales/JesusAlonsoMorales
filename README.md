@@ -89,7 +89,7 @@ Actualmente trabajo principalmente con:
 - Automatización de procesos
 - Diseño y uso de agentes de IA
 - IA aplicada a automatización y análisis
-- MCP en Power Query
+- MCP
 
 ### 🏢 ERP / CRM
 
