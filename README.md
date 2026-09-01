@@ -184,7 +184,7 @@ Mi objetivo es seguir desarrollando proyectos donde pueda combinar mi experienci
 
 ## 📫 Contacto
 
-📧 **Email:** chus_alonsomorales@hotmail.com
+📧 **Email:** chusalonsomorales@gmail.com
 
 ---
 
