@@ -107,6 +107,8 @@ Modelo de datos construido para automatizar el cálculo de **costes de nómina e
 
 El proyecto utiliza Power Query y Power Pivot para la transformación y modelado de los datos, junto con medidas DAX para realizar los cálculos automáticamente.
 
+Acceso al proyecto: https://github.com/JesusAlonsoMorales/Automatizacion-partes-de-trabajo
+
 **Tecnologías**
 
 `Power Query` `Power Pivot` `DAX`
