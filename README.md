@@ -66,6 +66,21 @@ a un cliente **no altere el histórico de coste de personal** ya cerrado.
 
 `Power Query (M)` · `Power Pivot` · `DAX` · `SharePoint` · `Power Automate`
 
+### 🗃️ [ShopSphere — Portfolio de Analítica SQL](https://github.com/JesusAlonsoMorales/sql-ecommerce-analytics)
+
+Base de datos de una tienda online (MySQL) con esquema normalizado, generación
+procedural de datos y 17 consultas que responden preguntas de negocio reales:
+segmentación RFM de clientes, retención por cohortes, crecimiento mes a mes y
+tasa de devolución por categoría.
+
+Lo interesante no es solo el SQL: cada consulta viene con su lectura de
+negocio sobre resultados reales de ejecución — por ejemplo, identificar que
+el 15% de clientes "en riesgo de fuga" concentra casi tanto valor histórico
+como los clientes más fieles, lo que prioriza a quién dirigir una campaña de
+reactivación.
+
+`MySQL` · `Funciones de ventana (RANK, NTILE, LAG)` · `CTEs` · `Procedimientos almacenados`
+
 ### 💼 Análisis del mercado laboral tech — *en curso*
 
 Proyecto end-to-end: extracción con Python → limpieza y unión de tablas →
