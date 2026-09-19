@@ -99,7 +99,7 @@ tendencias en puestos tech.
 
 | | | |
 |---|---|---|
-| **SUMO, Servicios y Suministros** | Control Financiero | 2024 – septiembre 2026 |
+| **SUMO, Servicios y Suministros** | Control Financiero | 2024 – Septiembre 2026 |
 | **Repsol, S.A.** | Técnico de Control de Costes | 2016 – 2021 |
 | Red Eléctrica de España · Global Energy Services · Agrícola El Bosque | Análisis de costes, presupuestos y reporting a dirección | — |
 
