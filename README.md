@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  📧 chusalonsomorales@gmail.com ·
+  📧 chus_alonsomorales@hotmail.com ·
   <a href="https://www.linkedin.com/in/jes%C3%BAs-manuel-alonso-morales-064b7a15a">LinkedIn</a>
 </p>
 
@@ -72,7 +72,7 @@ a un cliente **no altere el histórico de coste de personal** ya cerrado.
 
 `Power Query (M)` · `Power Pivot` · `DAX` · `SharePoint` · `Power Automate`
 
-### 🗃️ [ShopSphere — Portfolio de Analítica SQL](https://github.com/JesusAlonsoMorales/sql-ecommerce-analytics)
+### 🗃️ [Portfolio de Analítica SQL](https://github.com/JesusAlonsoMorales/sql-ecommerce-analytics)
 
 Base de datos de una tienda online (MySQL) con esquema normalizado, generación
 procedural de datos y 17 consultas que responden preguntas de negocio reales:
@@ -99,7 +99,7 @@ tendencias en puestos tech.
 
 | | | |
 |---|---|---|
-| **SUMO, Servicios y Suministros** | Control Financiero | 2024 – actualidad |
+| **SUMO, Servicios y Suministros** | Control Financiero | 2024 – septiembre 2026 |
 | **Repsol, S.A.** | Técnico de Control de Costes | 2016 – 2021 |
 | Red Eléctrica de España · Global Energy Services · Agrícola El Bosque | Análisis de costes, presupuestos y reporting a dirección | — |
 
