@@ -12,6 +12,12 @@
 </p>
 
 <p align="center">
+  <a href="https://jesusalonsomorales.github.io/">
+    <img src="https://img.shields.io/badge/🚀_Ver_portfolio_interactivo-22e5c0?style=for-the-badge&logoColor=white" alt="Ver portfolio interactivo">
+  </a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
