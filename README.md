@@ -7,7 +7,7 @@
 <h3 align="center">Data Analyst · Business Intelligence</h3>
 
 <p align="center">
-  De +10 años en control de gestión y finanzas a convertir datos en decisiones,<br>
+  De más de 9 años en control de gestión y finanzas a convertir datos en decisiones,<br>
   con herramientas de análisis, modelado y automatización.
 </p>
 
@@ -34,7 +34,7 @@
 
 ## 👋 Sobre mí
 
-Vengo del control de gestión y las finanzas: más de una década transformando
+Vengo del control de gestión y las finanzas: más de nueve años transformando
 información financiera y operativa en presupuestos, KPIs, reporting a dirección
 y cuadros de mando. He hecho seguimiento de planes operativos de hasta **100 M€**
 en compañías como **Repsol** y **Red Eléctrica de España**.
@@ -75,7 +75,7 @@ a un cliente **no altere el histórico de coste de personal** ya cerrado.
 ### 🗃️ [Portfolio de Analítica SQL](https://github.com/JesusAlonsoMorales/sql-ecommerce-analytics)
 
 Base de datos de una tienda online (MySQL) con esquema normalizado, generación
-procedural de datos y 17 consultas que responden preguntas de negocio reales:
+procedural de datos y consultas que responden preguntas de negocio reales:
 segmentación RFM de clientes, retención por cohortes, crecimiento mes a mes y
 tasa de devolución por categoría.
 
@@ -99,13 +99,19 @@ tendencias en puestos tech.
 
 | | | |
 |---|---|---|
-| **SUMO, Servicios y Suministros** | Control Financiero | 2024 – Septiembre 2026 |
+| **SUMO, Servicios y Suministros** | Control de Gestión | 2024 – Septiembre 2026 |
 | **Repsol, S.A.** | Técnico de Control de Costes | 2016 – 2021 |
 | Red Eléctrica de España · Global Energy Services · Agrícola El Bosque | Análisis de costes, presupuestos y reporting a dirección | — |
 
-En SUMO: dashboards interactivos, seguimiento de KPIs con segmentadores y
-líneas de tiempo, modelos en Power Pivot / Power Query y automatización con
-Power Automate.
+En SUMO:
+
+- **Automaticé los partes de trabajo:** se minimizaron los errores y se ahorraron
+  de media ~10 h a la semana que 2 personas dedicaban a leer partes en papel,
+  sumar horas y pasarlas a clientes.
+- **Diseñé un flujo en Power Automate** que capta los CV recibidos por correo, los
+  analiza con un agente y los carga en SharePoint, listos para revisar.
+- Dashboards interactivos con KPIs, segmentadores y líneas de tiempo para
+  facturación y nómina.
 
 ## 🎓 Formación
 
