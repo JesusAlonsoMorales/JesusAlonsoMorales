@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="./assets/jesus-alonso-data-analyst.png" width="200" alt="Jesús Alonso · Data Analyst">
+  <img src="./assets/jesus-alonso-data-analyst.png" width="200" alt="Jesús Alonso · Data Analyst · Business Intelligence · Control de Gestión">
 </p>
 
 <h1 align="center">Jesús Alonso</h1>
 
-<h3 align="center">Data Analyst · Business Intelligence</h3>
+<h3 align="center">Data Analyst · Business Intelligence · Control de Gestión</h3>
 
 <p align="center">
   De más de 9 años en control de gestión y finanzas a convertir datos en decisiones,<br>
@@ -105,13 +105,13 @@ tendencias en puestos tech.
 
 En SUMO:
 
-- **Automaticé los partes de trabajo:** se minimizaron los errores y se ahorraron
-  de media ~10 h a la semana que 2 personas dedicaban a leer partes en papel,
-  sumar horas y pasarlas a clientes.
-- **Diseñé un flujo en Power Automate** que capta los CV recibidos por correo, los
-  analiza con un agente y los carga en SharePoint, listos para revisar.
-- Dashboards interactivos con KPIs, segmentadores y líneas de tiempo para
-  facturación y nómina.
+- Reporting de **facturación y nómina** con dashboard interactivo (KPIs,
+  segmentadores y línea de tiempo).
+- Digitalicé los **partes de trabajo**, del papel a un modelo que calcula coste de
+  personal e importe a facturar ([ver proyecto](https://github.com/JesusAlonsoMorales/Automatizacion-partes-de-trabajo)):
+  ~10 h a la semana ahorradas a 2 personas.
+- **Agente de IA en Power Automate** que capta los CV recibidos por correo, los
+  analiza y los carga en SharePoint, listos para revisar.
 
 ## 🎓 Formación
 
