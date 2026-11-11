@@ -37,7 +37,7 @@
 Vengo del control de gestión y las finanzas: más de nueve años transformando
 información financiera y operativa en presupuestos, KPIs, reporting a dirección
 y cuadros de mando. He hecho seguimiento de planes operativos de hasta **100 M€**
-en compañías como **Repsol** y **Red Eléctrica de España**.
+en **Repsol** y en proyectos para **Red Eléctrica de España**.
 
 Ahora llevo esa visión de negocio al dato: modelado, automatización y
 programación para que la información llegue lista a quien decide. Estoy
@@ -102,7 +102,7 @@ tendencias en puestos tech.
 | **SUMO, Servicios y Suministros** | Control de Gestión | Oct. 2024 – Sep. 2026 |
 | **Agrícola El Bosque** | Responsable de Compras y Análisis de Costes | Sep. 2023 – Oct. 2024 |
 | **Global Energy Services** | Control de Costes | Abr. 2022 – Sep. 2023 |
-| **Red Eléctrica de España** | Control, Análisis de Costes y Presupuestos | Jul. 2021 – Abr. 2022 |
+| **ALTEN Spain** (cliente: Red Eléctrica de España) | Control, Análisis de Costes y Presupuestos | Jul. 2021 – Abr. 2022 |
 | **Repsol, S.A.** | Técnico de Control de Costes y Valoración Económica | Dic. 2016 – Ene. 2021 |
 
 En SUMO:
@@ -117,14 +117,15 @@ En SUMO:
 - **Agente de IA en Power Automate** que capta los CV recibidos por correo, los
   analiza y los carga en SharePoint, listos para revisar.
 
-Antes: presupuesto de costes de la compañía en Agrícola El Bosque, cartera de
-20 M€ en Red Eléctrica y Plan Operativo anual de 100 M€ y portafolio de
-proyectos de Tecnología de la Información y Digitalización (TID) en Repsol.
+Antes: implantación del ERP y presupuesto de costes de la compañía en Agrícola
+El Bosque; cartera de 20 M€ en proyectos para Red Eléctrica (ALTEN Spain); Plan
+Operativo anual de 100 M€ y portafolio de proyectos de Tecnología de la
+Información y Digitalización (TID) en Repsol.
 
 ## 🎓 Formación
 
 - **Máster en Data Analytics** — Escuela PontIA · finalización prevista diciembre 2026
-- **Doble Grado en ADE y Finanzas** — Universidad de Huelva (Facultad de CC. EE.)
+- **Doble Grado en ADE y Finanzas** — Universidad de Huelva (Facultad de CC. EE.) · 2012 – 2017
 - Power BI — Certificado (Udemy)
 
 ---
