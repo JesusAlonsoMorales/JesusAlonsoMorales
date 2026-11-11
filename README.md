@@ -72,7 +72,7 @@ a un cliente **no altere el histórico de coste de personal** ya cerrado.
 
 `Power Query (M)` · `Power Pivot` · `DAX` · `SharePoint` · `Power Automate`
 
-### 🗃️ [Portfolio de Analítica SQL](https://github.com/JesusAlonsoMorales/sql-ecommerce-analytics)
+### 🗃️ [Portfolio de Analítica SQL + Power BI](https://github.com/JesusAlonsoMorales/sql-ecommerce-analytics)
 
 Base de datos de una tienda online (MySQL) con esquema normalizado, generación
 procedural de datos y consultas que responden preguntas de negocio reales:
@@ -85,7 +85,7 @@ el 15% de clientes "en riesgo de fuga" concentra casi tanto valor histórico
 como los clientes más fieles, lo que prioriza a quién dirigir una campaña de
 reactivación.
 
-`MySQL` · `Funciones de ventana (RANK, NTILE, LAG)` · `CTEs` · `Procedimientos almacenados`
+`MySQL` · `Funciones de ventana (RANK, NTILE, LAG)` · `CTEs` · `Procedimientos almacenados` · `Power BI` · `DAX`
 
 ### 💼 Análisis del mercado laboral tech — *en curso*
 
@@ -97,14 +97,18 @@ tendencias en puestos tech.
 
 ## 💼 Experiencia
 
-| | | |
+| Empresa | Puesto | Periodo |
 |---|---|---|
-| **SUMO, Servicios y Suministros** | Control de Gestión | 2024 – Septiembre 2026 |
-| **Repsol, S.A.** | Técnico de Control de Costes | 2016 – 2021 |
-| Red Eléctrica de España · Global Energy Services · Agrícola El Bosque | Análisis de costes, presupuestos y reporting a dirección | — |
+| **SUMO, Servicios y Suministros** | Control de Gestión | Oct. 2024 – Sep. 2026 |
+| **Agrícola El Bosque** | Responsable de Compras y Análisis de Costes | Sep. 2023 – Oct. 2024 |
+| **Global Energy Services** | Control de Costes | Abr. 2022 – Sep. 2023 |
+| **Red Eléctrica de España** | Control, Análisis de Costes y Presupuestos | Jul. 2021 – Abr. 2022 |
+| **Repsol, S.A.** | Técnico de Control de Costes y Valoración Económica | Dic. 2016 – Ene. 2021 |
 
 En SUMO:
 
+- **Control de gestión** de la compañía: seguimiento de facturación, coste de
+  personal y desviaciones, con reporting para la toma de decisiones.
 - Reporting de **facturación y nómina** con dashboard interactivo (KPIs,
   segmentadores y línea de tiempo).
 - Digitalicé los **partes de trabajo**, del papel a un modelo que calcula coste de
@@ -113,10 +117,14 @@ En SUMO:
 - **Agente de IA en Power Automate** que capta los CV recibidos por correo, los
   analiza y los carga en SharePoint, listos para revisar.
 
+Antes: presupuesto de costes de la compañía en Agrícola El Bosque, cartera de
+20 M€ en Red Eléctrica y Plan Operativo anual de 100 M€ y portafolio de
+proyectos de Tecnología de la Información y Digitalización (TID) en Repsol.
+
 ## 🎓 Formación
 
-- **Máster en Data Analytics** — finalización prevista diciembre 2026
-- **Doble Grado en ADE y Finanzas**
+- **Máster en Data Analytics** — Escuela PontIA · finalización prevista diciembre 2026
+- **Doble Grado en ADE y Finanzas** — Universidad de Huelva (Facultad de CC. EE.)
 - Power BI — Certificado (Udemy)
 
 ---
